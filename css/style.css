@@ -1,0 +1,42 @@
+body {
+    font-family: 'Alfa Slab One', cursive;
+    background-color:#DBA64F;
+    color: #255C8F; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30pt;
+}
+
+header{ 
+    text-align:center;
+}
+
+#hero{
+    text-align:center;
+    border:double;
+    background-color: #8F6117;
+    color:#4F97DB;
+}
+
+#hero img{
+    width:300px;
+}
+
+#bio {
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+footer{
+    text-align:center;
+    border:double;
+    background-color: #8F6117;
+    color:#4F97DB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
