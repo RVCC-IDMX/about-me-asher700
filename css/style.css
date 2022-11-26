@@ -1,5 +1,5 @@
 body {
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Alfa Slab One';
     background-color:#DBA64F;
     color: #255C8F; 
 }
@@ -13,8 +13,11 @@ h1, h2, h3, h4, h5, h6 {
 header{ 
     text-align:center;
 }
-
-#hero{
+/*Hero Section*/
+#hero {
+    width:50%;
+    transform: translateX(-50%);
+    margin-left: 50%;
     text-align:center;
     border:double;
     background-color: #8F6117;
@@ -22,24 +25,60 @@ header{
 }
 
 #hero img{
-    width:300px;
+    width:50%;
+    min-width:100px;
 }
 
+/*Bio Section*/
 #bio {
     text-align: center;
     margin-top:50px;
     margin-bottom:50px;
 }
+/*Hobbies Section*/
+#hobbies {
+    width:50%;
+    margin-left: 50%;
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
 
-#hobbies ul{
+}
+#hobbies ul {
+    margin-left: -10px;
+    width: calc(100% - 40px);
     border:dashed;
     border-width: 10px;
     border-style: inset;
     border-color:#255C8F ;
     list-style-type: square;
-    
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
+/*Gallery Section*/
+
+#gallery {
+    width:50%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    border-width:10px ;
+    border-style:inset;
+    border-color:#255C8F;
+}
+
+#gallery img{
+    max-width: 100%;
+}
+
+#gallery figure{
+    text-align:center;
+}
+
+#gallery hr{
+    height:2px;
+    background-color:#4F97DB
+}
 
 
 footer{
