@@ -7,6 +7,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
     font-size: 30pt;
+    text-align: center;
 }
 
 header{ 
@@ -29,6 +30,17 @@ header{
     margin-top:50px;
     margin-bottom:50px;
 }
+
+#hobbies ul{
+    border:dashed;
+    border-width: 10px;
+    border-style: inset;
+    border-color:#255C8F ;
+    list-style-type: square;
+    
+}
+
+
 
 footer{
     text-align:center;
