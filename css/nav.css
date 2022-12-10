@@ -68,6 +68,11 @@ main {
     display:inline-block;
 }
 
+.navbar-links a:hover,
+.navbar-links a:focus {
+    filter:invert(1);
+}
+
 
 
 
