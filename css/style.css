@@ -36,6 +36,14 @@ header{
     margin-top:50px;
     margin-bottom:50px;
 }
+
+#bio img{
+    max-width:300px;
+    max-height:300px;
+    border:dashed;
+    border-width:8px;  
+    border-color:#8F6117;
+}
 /*Hobbies Section*/
 #hobbies {
     display:flex;
@@ -79,8 +87,7 @@ header{
 }
 
 #gallery hr{
-    height:2px;
-    background-color:#4F97DB
+    background-color: #8F6117;;
 }
 
 /*Video*/

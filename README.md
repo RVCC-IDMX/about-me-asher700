@@ -25,8 +25,6 @@ https://www.figma.com/files/team/1183484292492239672/Asher?fuid=1183484283203710
 Login. Favicon &amp; App Icon Generator. (n.d.). Retrieved December 10, 2022, 
 from https://www.favicon-generator.org/ 
 
-
-
 # Copyright
 
 Copyright 2021 All Rights Reserved Asher Levin 
