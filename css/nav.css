@@ -21,7 +21,8 @@ main {
 /* navbar */
 
 .navbar{
-    background-color:#8F6117;
+    border:double;
+    background-color: #8F6117;
     color:#4F97DB;
     display: flex;
     flex-direction: column;
@@ -31,27 +32,41 @@ main {
 
 
 /* logo */
-.logo{
+.logo {
     display:flex;
     align-items: center;
 }
 
-.logo img{
+.logo img {
     height:4vw;
     width:4vw;
 }
 
-.logo h1{
+.logo h1 {
     font-size:1.2em;
 }
 
 
 /* navigation list */
 
+.navbar-links li {
+    list-style:none;
+    display:block;
+    padding:0.75em 0;
+
+}
 
 /*  style all a tags in header 
  and then on hover*/
 
+.navbar-links a {
+    color:#4F97DB;
+    font-size: 1.5rem;
+    padding:1rem .5rem;
+    letter-spacing:1px;
+    text-decoration:none;
+    display:inline-block;
+}
 
 
 
