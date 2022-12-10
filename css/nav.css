@@ -40,6 +40,9 @@ main {
 
 .logo img {
     width:10%;
+    margin:1rem;
+    mix-blend-mode: multiply;
+    
 }
 
 .logo h1 {

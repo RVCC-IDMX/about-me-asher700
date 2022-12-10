@@ -1,4 +1,6 @@
-# Contributors: Asher Levin
+# Contributors: 
+
+Asher Levin
 
 # Netlify Status Badge
 
@@ -17,7 +19,8 @@ For my About Me Project, these were the major colors used to style the page.
 
 # Sources
 
-
+Figma. (n.d.). Retrieved December 10, 2022, from 
+https://www.figma.com/files/team/1183484292492239672/Asher?fuid=1183484283203710423 
 
 # Copyright
 
