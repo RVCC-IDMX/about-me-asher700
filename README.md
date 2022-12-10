@@ -25,6 +25,14 @@ https://www.figma.com/files/team/1183484292492239672/Asher?fuid=1183484283203710
 Login. Favicon &amp; App Icon Generator. (n.d.). Retrieved December 10, 2022, 
 from https://www.favicon-generator.org/ 
 
+How to - image hover overlay. How To Create Image Hover Overlay Effects. (n.d.).
+Retrieved December 10, 2022, from https://www.w3schools.com/howto/howto_css_image_overlay.asp 
+
+Admin. (2018, August 16). 10 simple div hover effects: CSS image hover effects. 10 Simple DIV Hover Effects | CSS Image Hover Effects. 
+Retrieved December 10, 2022, from https://thebrandsmen.com/css-image-hover-effects/ 
+
+Demo: CSS image hover effects - codepen. (n.d.). Retrieved December 10, 2022, from https://codepen.io/nxworld/pen/ZYNOBZ 
+
 # Copyright
 
 Copyright 2021 All Rights Reserved Asher Levin 
