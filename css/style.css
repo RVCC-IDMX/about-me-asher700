@@ -89,10 +89,6 @@ header{
 /*Video*/
 
 #video {
-    /*width:50%;
-    transform: translateX(-50%);
-    margin-left: 50%;
-    */
     border-width:10px ;
     border-style:inset;
     border-color:#255C8F;
@@ -109,7 +105,7 @@ header{
     width:90%;
 }
 
-/*Literature*/
+/*Blog post*/
 
 #lit {
     border: inset;
@@ -167,8 +163,9 @@ header{
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     text-align: center;
-  }
+}
 
+/*Contact form */
 #formElements {
     display: grid;
     row-gap:.5em;
@@ -189,7 +186,8 @@ fieldset{
 
 #contact input, #contact textarea, #contact select, #contact button{
     padding:.5em;
-    font-size:1rem;    
+    font-size:1rem;
+    cursor:pointer;   
 }
 
 #contact ul{

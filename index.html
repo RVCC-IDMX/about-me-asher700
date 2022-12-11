@@ -13,11 +13,19 @@
 </head>
 <body>
     <header>
-          
-        <nav class="navbar">
+        <nav class="nav">
+            <input type="checkbox" id="nav-checkbox" class="nav-checkbox">
+            <label for="nav-checkbox" class="nav-toggle">
+                <img class="menu" src="img/hamburger-icon.svg"  title="bars"></img>
+                <img class="close" id="close" src="img/x-out.svg"  title="times"></img>
+            </label>
+
             <div class="logo"><img src="img/favicon-96X96.png" 
                 alt="My initials as a logo">
-                <h1>Web Dev I</h1>  </div>
+                <h1>Web Dev I</h1>  
+            </div>
+            
+                
             <div class="navbar-links">
                 <ul>
                     <li><a href="#bio">Bio</a></li>
@@ -183,6 +191,7 @@
                 </div>
                 <img id="css" src="img/explanation.png" alt="code snippet of CSS behind the hovering effect" class="img">
             </div>
+            
         </article>
         
         <section id="contact">
